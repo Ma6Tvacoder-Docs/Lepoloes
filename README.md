@@ -51,9 +51,9 @@ Le texte barre utilise deux --tldes-- (alt gr + 2)
      (https://github.com/Ma6TvacoderDocs/Exercices15/blou/master/README.md)
 
      #Les images
-
-     (Image du site GIPHY par ex.)
-     (https://giphy.com/gifs/funimation-smile-my-hero-academia-MARFSIQQNQVWw)
+     
+  ![Image du site GIPHY par ex](https://media.giphy.com/media/MARFSIQQNQVWw/giphy.gif)
+     
 Et il reste encore... octocat:...
 
 #Les tableaux
