@@ -41,4 +41,30 @@ Le texte barre utilise deux --tldes-- (alt gr + 2)
     ---
     une ligne de separation avec 3 tirets(la balise hr/> en HTML)
 
+    
+    ---
+
+    #Les liens
+
+     *(Lien sur un site / une url):https:www.google.com
+     .(Lien vers un autre fichier Github)
+     (https://github.com/Ma6TvacoderDocs/Exercices15/blou/master/README.md)
+
+     #Les images
+
+     (Image du site GIPHY par ex.)(https://aminoapps.com/c/dragonballz/page/blog/all-might-x-broly/6PqT_zu3jX5L1pLwjM57RebB4WKPL2)
+Et il reste encore... octocat:...
+
+#Les tableaux
+On separe les cellules sur la meme ligne avec un PIPE (alt gr + 6)
+
+Boisson | gout | Prix
+--- | -- | ---
+Eau | neutre | 0.10E
+Coca | plantes |2.10E
+Lait | 1E | |
+Emoticones | :imp: | quoi ?
+
+
+
  [Retour en haut](#haut)
