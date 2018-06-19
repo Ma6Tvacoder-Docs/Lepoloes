@@ -52,7 +52,8 @@ Le texte barre utilise deux --tldes-- (alt gr + 2)
 
      #Les images
 
-     (Image du site GIPHY par ex.)(https://aminoapps.com/c/dragonballz/page/blog/all-might-x-broly/6PqT_zu3jX5L1pLwjM57RebB4WKPL2)
+     (Image du site GIPHY par ex.)
+     (https://giphy.com/gifs/funimation-smile-my-hero-academia-MARFSIQQNQVWw)
 Et il reste encore... octocat:...
 
 #Les tableaux
